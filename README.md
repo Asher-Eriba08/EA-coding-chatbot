@@ -40,3 +40,6 @@ Click Clear chat to reset the conversation.
 Notes
 Responses are limited to 250 tokens for concise answers.
 Adjust the temperature parameter in callOLLAMA() for more creative responses.
+
+<img width="1210" height="810" alt="EA chatbot" src="https://github.com/user-attachments/assets/408a8739-f1b6-4d3d-86c8-15760068943f" />
+
